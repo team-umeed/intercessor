@@ -26,7 +26,7 @@ six==1.15.0
 sklearn==0.0
 statsmodels==0.11.1
 threadpoolctl==2.1.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.23
 Werkzeug==1.0.1
 WTForms==2.3.1
